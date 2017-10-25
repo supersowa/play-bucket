@@ -1,7 +1,6 @@
-# GitHub for Technical Writers Workshop 
-# - First File Create ENE
+# GitHub for Technical Writers - First File Create ENE
 
-## Deserta pomaque videri viro eramque horruit robustior
+## Create New Branch for Update and Change
 
 Lorem [markdownum tantis stratoque](http://coacti-despice.com/) et pectora et
 dixerat! Sibi mea sine quatenus sequuntur arma vulnusque *ad* recludit est,
