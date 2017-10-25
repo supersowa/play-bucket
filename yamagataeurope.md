@@ -1,6 +1,6 @@
 # Yamagata
 
-Test **bold**
+Test **bold** and *italics*!
 
 # Et cura praelata
 
