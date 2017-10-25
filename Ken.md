@@ -8,5 +8,4 @@ I'll make another change, but this time in a branch.
 
 This is a second change in my branch.
 
-
-Change from the desktop app.
+This is a change from the zip-file.
