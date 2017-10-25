@@ -1,4 +1,5 @@
-# GitHub for Technical Writers Workshop - First File Create ENE
+# GitHub for Technical Writers Workshop 
+# - First File Create ENE
 
 ## Deserta pomaque videri viro eramque horruit robustior
 
