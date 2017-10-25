@@ -1,6 +1,6 @@
 # Ceres Vanilla – A Vanilla Theme for Ceres
 
-**Ceres Vanilla** is a simple theme plugin that contains no style or design for Ceres. With the help of this theme, you can display your own CSS in Ceres. Furthermore, the templates of Ceres can be overridden with your own templates.
+[Ceres Vanilla](https://github.com/plentymarkets/plugin-ceres-vanilla) is a simple theme plugin that contains no style or design for Ceres. With the help of this theme, you can display your own CSS in Ceres. Furthermore, the templates of Ceres can be overridden with your own templates.
 
 ## Displaying your own CSS
 
