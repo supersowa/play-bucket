@@ -7,7 +7,7 @@ Lorem [markdownum tantis stratoque](http://coacti-despice.com/) et pectora et
 dixerat! Sibi mea sine quatenus sequuntur arma vulnusque *ad* recludit est,
 nova. Herculis sedens iuveni antemnas ducat suo manibusque dolentem ante; decus.
 
-- Dum Proteaque ferrum Cinyreius orbem sibi longa
+- Dum *Proteaque* ferrum Cinyreius orbem sibi longa
 - Hos fugam fluctibus fluunt tibi nymphae ipsum
 - Aequor dolor Iovis anguigenae herbae viscera
 - Omne vires inquire
