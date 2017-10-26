@@ -35,7 +35,6 @@ After installing and deploying the plugin, enter your own CSS in the plugin deta
 
 ##### Activating your own homepage:
 
-
 1. Go to **Plugins » Plugin overview**.<br /> → The plugin overview will open. 
 2. Click on **CeresVanilla**.<br /> → The plugin will open. 
 3. Click on **Configuration** in the directory tree.
