@@ -1,2 +1,2 @@
 # play-bucket
-Workshop participants are invited here to contribute as a team members
+Workshop participants are invited here to contribute as team members
