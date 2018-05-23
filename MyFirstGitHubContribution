@@ -5,3 +5,4 @@ Instead of writing DITA content and then publishing the whole dita map to an out
 People with different roles can edit different pieces of content, depending their roles.
 ##Review [0:38:25 - 0:40:27]
 In-browser review: write content in DITA and save DITA source files on a webserver. Reviewers can review and edit the content directly in the browser.
+#TP change
