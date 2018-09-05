@@ -3,7 +3,7 @@
 
 ## Yamagata
 
-Test *italic*
+Test **italic**
 
 # Et cura praelata
 
